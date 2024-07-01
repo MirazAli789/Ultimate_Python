@@ -6,3 +6,5 @@ print(nameshort)
 character1 = name[0]
 print(character1)
 character2 = name[1]
+print(character2)
+print(name[1:4])
