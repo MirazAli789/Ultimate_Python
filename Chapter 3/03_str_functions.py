@@ -1,6 +1,19 @@
-name = "harry"
-
+name = "harry "
+surname = "khan"
+# print(len(name))
+# print(name.endswith("rry"))
+# print(name.startswith("ha"))
+# print(name.capitalize())
+# print(name.lower())
+# print(name.upper())
 print(len(name))
-print(name.endswith("rry"))
-print(name.startswith("ha"))
-print(name.capitalize())
+print(name.islower())
+print(name.isupper())
+print(name.upper())
+print(name.lower())
+print(name.startswith("h"))
+print(name.endswith("y"))
+print(name.replace("h","p"))
+print(name+surname)
+print(surname.isalnum())
+print(surname.isalpha())
