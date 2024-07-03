@@ -22,6 +22,8 @@ print(name.capitalize())
 str1 = " name "
 print(str1.strip())
 str2 = "Helloworld"
+print()
+print()
 print(str2.isupper())
 print(str2.islower())
 print(str2.startswith("H"))
@@ -29,3 +31,4 @@ print(str2.endswith("d"))
 print(str2.upper())
 print(str2.lower())
 print(str2.capitalize())
+print(str2.replace("H","h"))
