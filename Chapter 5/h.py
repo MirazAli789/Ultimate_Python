@@ -15,7 +15,7 @@
 d = {}
 print(type(d))  # <class 'dict'>
 s = set()
-print(type(s))
+print(type(s))  # <class 'set'>
 s.add(12)
 s.add(3)
 s.add(6)
