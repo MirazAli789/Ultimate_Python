@@ -83,7 +83,7 @@
 
 1. **Clone the repository** to your local machine using:
    ```sh
-   git clone https://github.com/CodeWithHarry/The-Ultimate-Python-Course.git
+   git clone https://github.com/MirazAli789/Ultimate_Python.git
    ```
 2. **Navigate through the chapters** to find the relevant lessons and code examples.
 3. **Complete the problem sets** provided at the end of each chapter to solidify your understanding.
